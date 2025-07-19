@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-div {
+    background-image: url(https://marketplace.canva.com/EAFhwfMq3ds/1/0/1600w/canva--cute-cats-illustration-desktop-wallpaper-KBBZLdpjLcM.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-color: rgb(217, 255, 0);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 400px;
+}
+
+h1 {
+    color: #ff00d4;
+    margin-bottom: 20px;
+}
+
+h3 {
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #0044ff;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ff00d4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #e600b3;
+}
+
+.output {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 18px;
+    color: #333;
+    border: 1px solid #ff0000;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
