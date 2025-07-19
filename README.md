@@ -1,2 +1,3 @@
 # Tip Calculator
-A simple
+
+A simple Tip Callucator
